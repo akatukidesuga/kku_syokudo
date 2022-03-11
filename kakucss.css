@@ -110,6 +110,9 @@ a{text-decoration: none;
     max-width: 90%;
   }
 
+  .menu{
+    list-style: none;
+  }
 /*フッター*/
 #footer{
     text-align: center;
